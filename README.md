@@ -59,3 +59,11 @@ NPM: 2210010553
 ### 8. *Ringan dan Cepat:*
    - Programnya gak makan banyak sumber daya, jadi jalan cepat dan lancar. Cocok banget buat dipake di komputer spek rendah sekalipun.
 
+
+### Ini dia Screenshot-nya 
+
+### 1. ![ss an run(2) lat 1 pbo2](https://github.com/user-attachments/assets/6cff0898-ae91-4521-a5c7-2c677c7e1ec5)
+
+
+
+### 2. ![ss an run lat 1 pbo2](https://github.com/user-attachments/assets/7aeebc93-9aff-47b8-afa9-91da32548170)
